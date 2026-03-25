@@ -106,12 +106,12 @@ where $( \lambda_i )$ are eigenvalues of the predictor covariance matrix.
 
 📁 Repository Structure
 .
-├── rf_simulation1.py     # main simulation script \\
-├── selected_results   # output dataset for main \\
-├── selected_result_ar1 #output dataset for ar1 \\
-├── Main Results Analysis #analysis of selected_results \\
-├── AR1RobustnessCheck #analysis of ar1_results \\
-├── README.md             # this file \\
+├── rf_simulation1.py     # main simulation script <br>
+├── selected_results   # output dataset for main <br>
+├── selected_result_ar1 #output dataset for ar1 <br>
+├── Main Results Analysis #analysis of selected_results <br>
+├── AR1RobustnessCheck #analysis of ar1_results <br>
+├── README.md             # this file <br>
 🔁 Reproducibility
 All experiments are controlled via command-line arguments
 Simulations can be resumed using --resume
