@@ -98,9 +98,9 @@ Each run produces a dataset containing:
 
 Effective dimensionality is computed as:
 
-[
+
 $p_{\text{eff}} = \frac{(\sum \lambda_i)^2}{\sum \lambda_i^2}$
-]
+
 
 where $( \lambda_i )$ are eigenvalues of the predictor covariance matrix.
 
