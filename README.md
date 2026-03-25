@@ -104,7 +104,7 @@ $p_{\text{eff}} = \frac{(\sum \lambda_i)^2}{\sum \lambda_i^2}$
 
 where $( \lambda_i )$ are eigenvalues of the predictor covariance matrix.
 
-📁 Repository Structure
+📁 Repository Structure <br>
 .
 ├── rf_simulation1.py     # main simulation script <br>
 ├── selected_results   # output dataset for main <br>
